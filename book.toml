@@ -1,0 +1,6 @@
+[book]
+authors = ["yangchey"]
+language = "en"
+multilingual = false
+src = "src"
+title = "SDA101 - User Interface Design and Implementation"
