@@ -39,6 +39,22 @@
     - [Responsive web design](./unit4/4.10.md)
     - [Browser developer tools](./unit4/4.11.md)
     - [Exercises](./unit4/exercises.md)
+- [UNIT 5 - Tailwindcss and Shad UI]()
+    - [Utility-first; Preflight, default styles; units; prefixes](./unit5/5.1.md)
+    - [Font size, shape; Text colour, opacity; Text alignment](./unit5/5.2.md)
+    - [Spacing; Styling lists; Plugins](./unit5/5.3.md)
+    - [Box model; Padding, margins; Borders; Background](./unit5/5.4.md)
+    - [Colours, images; Controlling height, width](./unit5/5.5.md)
+    - [Containers, page structure; Floats, clears](./unit5/5.6.md)
+    - [Positioning,  z-index](./unit5/5.7.md)
+    - [Table; Grid system; Flexbox; Box](./unit5/5.8.md)
+    - [Utility animations; transitions; Transformations](./unit5/5.9.md)
+    - [Screen widths, breakpoints](./unit5/5.10.md)
+    - [Grid layouts; Responsive designs](./unit5/5.11.md)
+    - [Configuration file; Default values; Generated classes](./unit5/5.12.md)
+    - [Variant prefixes; Integrating with existing CSS](./unit5/5.13.md)
+    - [Using Shadcn/ui](./unit5/5.14.md)
+  
 
 ---
 
