@@ -1,3 +1,5 @@
+# Exercise:
+
 Create a simple webpage with a micro interaction using TailwindCSS and ensure it's fully responsive.
 
 Steps:
@@ -8,3 +10,9 @@ Steps:
 - Test your website on different devices and screen sizes to ensure it adapts properly.
 
 
+# Practice Exercises:
+1. Create a table to display job listings with the following columns: Job Title, Company, Location, and Application Deadline.
+
+2. Create a simple photo ghallery using grid display.
+
+3. Design a navigation bar for a college website using flex layout.
