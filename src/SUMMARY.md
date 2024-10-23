@@ -54,7 +54,7 @@
     - [Variant prefixes; Integrating with existing CSS](./unit5/5.12.md)
     - [Using Shadcn/ui](./unit5/5.13.md)
     - [Exercises](./unit5/exercises.md)
-<!-- - [UNIT 6 - Browser Events and Manipulation]()
+- [UNIT 6 - Browser Events and Manipulation]()
     - [ DOM; Browser environment, specifications; DOM tree](./unit6/6.1.md)
     - [DOM Selection, Manipulation; Node properties](./unit6/6.2.md)
     - [Attributes, properties; Document structure, content](./unit6/6.3.md)
@@ -64,8 +64,8 @@
     - [Mouse events, properties; Mouse movement; drag, drop](./unit6/6.7.md)
     - [Pointer events; Keyboard events; scrolling events](./unit6/6.8.md)
     - [Form properties and methods; Focus; Form submission](./unit6/6.9.md)
-    - [Exercises](./unit6/exercises.md) -->
-<!-- - [UNIT 7 - Web Components]()
+    - [Exercises](./unit6/exercises.md)
+- [UNIT 7 - Web Components]()
     - [Introduction to Web Components](./unit7/7.1.md)
     - [Extending HTMLElement; Custom element naming, definition](./unit7/7.2.md)
     - [Adding content, styling, and interactivity](./unit7/7.3.md)
@@ -77,7 +77,7 @@
     - [Shadow DOM; Style encapsulation; Slots, content projection](./unit7/7.9.md)
     - [Shadow CSS; Theming components with CSS variables](./unit7/7.10.md)
     - [Combining multiple components; common design language](./unit7/7.11.md)
-    - [Exercises](./unit7/exercises.md) -->
+    - [Exercises](./unit7/exercises.md)
 
 ---
 
